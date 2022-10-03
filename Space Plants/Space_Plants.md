@@ -2,6 +2,8 @@ In August 2019 I put together a team for the [Growing Beyond Earth Maker](https:
 
 Our design proposals are documented on [Instructables](https://www.instructables.com/member/Draper+AstroGarden+Team/). We submitted two designs which we named Towers & Checkerboard. Towers was selected as a finalist design.
 - [Towers](https://www.instructables.com/Towers-AstroGarden/)
-  ! [The towers design](https://content.instructables.com/ORIG/FOF/ZIFI/K63JBED5/FOFZIFIK63JBED5.png?auto=webp&frame=1&width=1012&height=1024&fit=bounds&md=a523884756907d9c008bd1424dbf38bf)
 - [Checkerboard](https://www.instructables.com/Checkerboard-AstroGarden/)
-  ! [The checkerboard design](https://content.instructables.com/ORIG/FHQ/7OIM/K6130F84/FHQ7OIMK6130F84.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=34598cf75e1b8b0cbb4f866561ce2010)
+  
+![The towers design](Towers.png)
+
+![The checkerboard design](Checkerboard.png)
