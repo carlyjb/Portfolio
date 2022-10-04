@@ -1,0 +1,3 @@
+As an undergraduate, I worked in Professor Torres-Jara's [Sensitive Robotics Lab](https://eduardotorresjara.com/) at WPI. He was studying the use of compliant sensing for haptic feedback. I assisted the upperclass and graduate students by helping prepare the "skin" used in projects such as the [characterization of tactile sensors](https://ieeexplore.ieee.org/abstract/document/6691907) and the [Sensitive Walking Platform](https://digital.wpi.edu/downloads/vm40xt08b).
+
+Included here in this portfolio is a [draft of some unpublished work](Improving_IR_Sensors_for_Use_in_Sensitive_Robotics.pdf) I did [running tests](Mold_Test_Data.pdf) on how to reduce light pollution on the IR sensors that measured the deflection of the soft spheres.
