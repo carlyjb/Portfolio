@@ -1,5 +1,6 @@
+# FDM 3D Printed Bridge
 
-- Worked in a team to iterate on design for FDM-printed bridge to span 450mm gap and support 10 kgs. Aesthetics were also part of the judging criteria.
+- I worked in a team of 3 to iterate on design for FDM-printed bridge to span 450mm gap and support 10 kgs. Aesthetics were also part of the judging criteria.
 - Bridge had to be made of multiple pieces with a maximum dimension of 230mm and had to hold together without any adhesive. Pin joints were permitted, but we chose to not use any for aesthetics.
 - I used nTopology to conduct Finite Element Analysis and static analysis on CAD prototypes.
 - I experimented with lattices and topology optimization in nTopology to reduce weight of parts and improve aesthetics. Other team members incorporated the results of all team members' experiments into our final CAD model.

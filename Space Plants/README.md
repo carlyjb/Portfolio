@@ -1,3 +1,5 @@
+# Space Plants / Astrogarden
+
 In August 2019 I put together a team at Draper for the Professional Track of the [Growing Beyond Earth Maker](https://www.instructables.com/contest/beyondEarth/) Challenge, a NASA crowd-sourcing competition. We had ~6 months to create a proposal to redesign the VEGGIE system on the ISS to use space more efficiently to maximize its food production. We had to increase plant density within given volumetric constraints, including space for light and water systems.
 
 I led research & development of 2 novel designs while managing the team of 8, as well as the budget, procurement, task delegation, and schedule.
