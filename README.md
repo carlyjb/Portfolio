@@ -2,7 +2,7 @@
 
 Hi, I'm Carly!
 
-I'm a multidisciplinary engineer currently working as a safety-critical and mission-critical software engineer. You can find my [LinkedIn profile here]https://www.linkedin.com/in/carlybuchanan/().
+I'm a multidisciplinary engineer currently working as a safety-critical and mission-critical software engineer. You can find my [LinkedIn profile here](https://www.linkedin.com/in/carlybuchanan/).
 
 This page is a portfolio of some of my other project work including:
 - My [sensitive robotics work](Tactile%20Robotics/README.md) including compliant haptic sensor development and my force-sensitive calligraphy robot with compliant series elastic actuators from my time as an undergraduate at WPI.
