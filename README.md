@@ -5,24 +5,24 @@ Hi, I'm Carly!
 I'm a multidisciplinary engineer currently working as a safety-critical and mission-critical software engineer and pursuing a Master's in Product Design & Manufacturing. You can find my [LinkedIn profile here](https://www.linkedin.com/in/carlybuchanan/).
 
 Experience:
-*Software for hardware 
-    *C
-    *C++
-    *Arduino
-*Electronics design
-    *KiCAD
-*Mechanical Design
-    *Onshape
-    *Solidworks
-*Prototyping & Manufacturing
-    *Soldering
-    *Casting & Molding silicones and plastics
-    *Laser cutting
-    *Cardboard mockups
-    *FDM & SLA additive manufacturing
-*Leadership & Project Management
-    *Task Leader at Draper
-    *Electrical Mentor for Ligerbots
+* Software for hardware 
+    * C
+    * C++
+    * Arduino
+* Electronics design
+    * KiCAD
+* Mechanical Design
+    * Onshape
+    * Solidworks
+* Prototyping & Manufacturing
+    * Soldering
+    * Casting & Molding silicones and plastics
+    * Laser cutting
+    * Cardboard mockups
+    * FDM & SLA additive manufacturing
+* Leadership & Project Management
+    * Task Leader at Draper
+    * Electrical Mentor for Ligerbots
 
 This page is a portfolio of some of my other project work including:
 - My [sensitive robotics work](Tactile%20Robotics/README.md) including compliant haptic sensor development and my force-sensitive calligraphy robot with compliant series elastic actuators from my time as an undergraduate at WPI.
