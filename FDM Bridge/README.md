@@ -1,5 +1,11 @@
 # FDM 3D Printed Bridge
 
+Skills:
+* FDM 3D printing (setting print parameters, failure diagnosis, machine maintenance)
+* CAD (Solidworks)
+* FEA (nTopology)
+* Lattices (nTopology)
+
 - I worked in a team of 3 to iterate on design for FDM-printed bridge to span 450mm gap and support 10 kgs. Aesthetics were also part of the judging criteria.
 - Bridge had to be made of multiple pieces with a maximum dimension of 230mm and had to hold together without any adhesive. Pin joints were permitted, but we chose to not use any for aesthetics.
 - I used nTopology to conduct Finite Element Analysis and static analysis on CAD prototypes.
