@@ -1,4 +1,11 @@
 # Tactile Robotics
+Skills:
+* Casting & Molding Silicone
+* Spring force calculations
+* Force control
+* Arduino programming
+* Prototyping via FDM 3D printing & basic metal shop work
+* LaTeX
 
 ## Haptic Sensors
 As an undergraduate, I worked in Professor Torres-Jara's [Sensitive Robotics Lab](https://eduardotorresjara.com/) at WPI. He was studying the use of compliant sensing for haptic feedback. I assisted the upperclass and graduate students by helping prepare the "skin" used in projects such as the [characterization of tactile sensors](https://ieeexplore.ieee.org/abstract/document/6691907) and the [Sensitive Walking Platform](https://digital.wpi.edu/downloads/vm40xt08b).
